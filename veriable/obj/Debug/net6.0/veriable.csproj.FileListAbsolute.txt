@@ -1,0 +1,15 @@
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\bin\Debug\net6.0\veriable.exe
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\bin\Debug\net6.0\veriable.deps.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\bin\Debug\net6.0\veriable.runtimeconfig.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\bin\Debug\net6.0\veriable.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\bin\Debug\net6.0\veriable.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.csproj.AssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.AssemblyInfoInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.AssemblyInfo.cs
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\refint\veriable.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\veriable.genruntimeconfig.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\veriable\obj\Debug\net6.0\ref\veriable.dll

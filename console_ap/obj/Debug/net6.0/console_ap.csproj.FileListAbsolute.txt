@@ -1,0 +1,15 @@
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\bin\Debug\net6.0\console_ap.exe
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\bin\Debug\net6.0\console_ap.deps.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\bin\Debug\net6.0\console_ap.runtimeconfig.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\bin\Debug\net6.0\console_ap.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\bin\Debug\net6.0\console_ap.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.csproj.AssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.AssemblyInfoInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.AssemblyInfo.cs
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\refint\console_ap.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\console_ap.genruntimeconfig.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\console_ap\obj\Debug\net6.0\ref\console_ap.dll

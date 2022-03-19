@@ -1,0 +1,15 @@
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.csproj.AssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.AssemblyInfoInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.AssemblyInfo.cs
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\bin\Debug\net6.0\oprator_use.exe
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\bin\Debug\net6.0\oprator_use.deps.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\bin\Debug\net6.0\oprator_use.runtimeconfig.json
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\bin\Debug\net6.0\oprator_use.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\bin\Debug\net6.0\oprator_use.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\refint\oprator_use.dll
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.pdb
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\oprator_use.genruntimeconfig.cache
+C:\Users\rabia\OneDrive\Masaüstü\C#\oprator_use\obj\Debug\net6.0\ref\oprator_use.dll
